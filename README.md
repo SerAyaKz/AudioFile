@@ -10,7 +10,7 @@ Build Tool: **Maven**
 
 Database: **PostgreSQL**
 
-API Endpoints
+## API Endpoints
 
 ### **1. Upload Audio File**
 
