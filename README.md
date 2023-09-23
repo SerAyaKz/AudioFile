@@ -1,4 +1,5 @@
 Audio File API Documentation
+
 This document provides information on the Audio File API endpoints and instructions for building and running the project. The Audio File API allows clients to upload audio files, retrieve file information from a PostgreSQL database, and establish a WebSocket connection.
 
 Project Overview
