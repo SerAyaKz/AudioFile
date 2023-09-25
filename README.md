@@ -62,4 +62,3 @@ http://localhost:8081/api/audio/upload
 http://localhost:8081/api/audio/getFileInfo
 
 
-For any further questions or issues, please refer to the project maintainers or the provided contact information.
